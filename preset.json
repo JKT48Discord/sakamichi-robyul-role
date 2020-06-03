@@ -685,7 +685,7 @@
           },
           {
             "Name" : "Takahashi Mikuni💎",
-            "Print" : "Takashi Mikuni",
+            "Print" : "Takahashi Mikuni",
             "Aliases" : [
               "Takahashi Mikuni"
             ]
@@ -1315,9 +1315,9 @@
           },
           {
             "Name": "Kanemura Miku",
-            "Print": "Miku",
+            "Print": "Oshushi",
             "Aliases": [
-              "Miku"
+              "Oshushi"
             ]
           },
           {
@@ -1381,6 +1381,13 @@
             "Print": "Hinano",
             "Aliases": [
               "Hinano"
+            ]
+          },
+          {
+            "Name": "Takahashi Mikuni",
+            "Print": "Mikuni",
+            "Aliases": [
+              "Mikuni"
             ]
           },
           {
