@@ -1,1614 +1,1827 @@
-
 [
     {
-      "Label": "__**神押し Kami-oshi** - **Nogizaka46**__",
-      "Pool": "oshi-roles",
-      "Hidden": false,
-      "Limit": 1,
-      "Message": ":white_flower: :flag_gb: This is for your **one and only** favourite oshi (Kamioshi/神押し). Oshi role will be marked with gem emoji :gem: behind their nickname. :flag_id: Kalian bisa memilih Kami-oshi (atau oshi yang paling kalian suka) di sini. Kalian hanya bisa memilih satu saja. Kami-oshi akan memiliki emoji berlian :gem: di belakang nama panggilan mereka. :flag_jp: リストによる神押しの名前をかいてください。神押しの名前の後ろに宝石の絵文字:gem:にあります。",
-      "Roles": [
-        {
-          "Name": "Saito Asuka💎",
-          "Print": "Saito Asuka",
-          "Aliases": [
-            "Saito Asuka",
-            "Saitou Asuka"
-          ]
-        },
-        {
-          "Name": "Tsutsui Ayame💎",
-          "Print": "Tsutsui Ayame",
-          "Aliases": [
-            "Tsutsui Ayame"
-          ]
-        },
-        {
-          "Name": "Suzuki Ayane💎",
-          "Print": "Suzuki Ayane",
-          "Aliases": [
-            "Suzuki Ayane"
-          ]
-        },
-        {
-          "Name": "Yoshida Ayano Christie💎",
-          "Print": "Yoshida Ayano Christie",
-          "Aliases": [
-            "Yoshida Ayano Christie"
-          ]
-        },
-        {
-          "Name": "Ikuta Erika💎",
-          "Print": "Ikuta Erika",
-          "Aliases": [
-            "Ikuta Erika"
-          ]
-        },
-        {
-          "Name": "Kaki Haruka💎",
-          "Print": "Kaki Haruka",
-          "Aliases": [
-            "Kaki Haruka"
-          ]
-        },
-        {
-          "Name": "Kuromi Haruka💎",
-          "Print": "Kuromi Haruka",
-          "Aliases": [
-            "Kuromi Haruka"
-          ]
-        },
-        {
-          "Name": "Mukai Hazuki💎",
-          "Print": "Mukai Hazuki",
-          "Aliases": [
-            "Mukai Hazuki"
-          ]
-        },
-        {
-          "Name": "Higuchi Hina💎",
-          "Print": "Higuchi Hina",
-          "Aliases": [
-            "Higuchi Hina"
-          ]
-        },
-        {
-          "Name": "Kitano Hinako💎",
-          "Print": "Kitano Hinako",
-          "Aliases": [
-            "Kitano Hinako"
-          ]
-        },
-        {
-          "Name": "Ito Junna💎",
-          "Print": "Ito Junna",
-          "Aliases": [
-            "Ito Junna",
-            "Itou Junna"
-          ]
-        },
-        {
-          "Name": "Sato Kaede💎",
-          "Print": "Sato Kaede",
-          "Aliases": [
-            "Sato Kaede",
-            "Satou Kaede"
-          ]
-        },
-        {
-          "Name": "Nakada Kana💎",
-          "Print": "Nakada Kana",
-          "Aliases": [
-            "Nakada Kana"
-          ]
-        },
-        {
-          "Name": "Takayama Kazumi💎",
-          "Print": "Takayama Kazumi",
-          "Aliases": [
-            "Takayama Kazumi"
-          ]
-        },
-        {
-          "Name": "Wada Maaya💎",
-          "Print": "Wada Maaya",
-          "Aliases": [
-            "Wada Maaya"
-          ]
-        },
-        {
-          "Name": "Shinuchi Mai💎",
-          "Print": "Shinuchi Mai",
-          "Aliases": [
-            "Shinuchi Mai"
-          ]
-        },
-        {
-          "Name": "Shiraishi Mai💎",
-          "Print": "Shiraishi Mai",
-          "Aliases": [
-            "Shiraishi Mai"
-          ]
-        },
-        {
-          "Name": "Akimoto Manatsu💎",
-          "Print": "Akimoto Manatsu",
-          "Aliases": [
-            "Akimoto Manatsu"
-          ]
-        },
-        {
-          "Name": "Tamura Mayu💎",
-          "Print": "Tamura Mayu",
-          "Aliases": [
-            "Tamura Mayu"
-          ]
-        },
-        {
-          "Name": "Hoshino Minami💎",
-          "Print": "Hoshino Minami",
-          "Aliases": [
-            "Hoshino Minami"
-          ]
-        },
-        {
-          "Name": "Umezawa Minami💎",
-          "Print": "Umezawa Minami",
-          "Aliases": [
-            "Umezawa Minami"
-          ]
-        },
-        {
-          "Name": "Yakubo Mio💎",
-          "Print": "Yakubo Mio",
-          "Aliases": [
-            "Yakubo Mio"
-          ]
-        },
-        {
-          "Name": "Hori Miona💎",
-          "Print": "Hori Miona",
-          "Aliases": [
-            "Hori Miona"
-          ]
-        },
-        {
-          "Name": "Watanabe Miria💎",
-          "Print": "Watanabe Miria",
-          "Aliases": [
-            "Watanabe Miria"
-          ]
-        },
-        {
-          "Name": "Matsuo Miyu💎",
-          "Print": "Matsuo Miyu",
-          "Aliases": [
-            "Matsuo Miyu"
-          ]
-        },
-        {
-          "Name": "Yamashita Mizuki💎",
-          "Print": "Yamashita Mizuki",
-          "Aliases": [
-            "Yamashita Mizuki"
-          ]
-        },
-        {
-          "Name": "Ozono Momoko💎",
-          "Print": "Ozono Momoko",
-          "Aliases": [
-            "Ozono Momoko",
-            "Oozono Momoko"
-          ]
-        },
-        {
-          "Name": "Yumiki Nao💎",
-          "Print": "Yumiki Nao",
-          "Aliases": [
-            "Yumiki Nao"
-          ]
-        },
-        {
-          "Name": "Terada Ranze💎",
-          "Print": "Terada Ranze",
-          "Aliases": [
-            "Terada Ranze"
-          ]
-        },
-        {
-          "Name": "Seimiya Rei💎",
-          "Print": "Seimiya Rei",
-          "Aliases": [
-            "Seimiya Rei"
-          ]
-        },
-        {
-          "Name": "Yamazaki Rena💎",
-          "Print": "Yamazaki Rena",
-          "Aliases": [
-            "Yamazaki Rena"
-          ]
-        },
-        {
-          "Name": "Iwamoto Renka💎",
-          "Print": "Iwamoto Renka",
-          "Aliases": [
-            "Iwamoto Renka"
-          ]
-        },
-        {
-          "Name": "Nakamura Reno💎",
-          "Print": "Nakamura Reno",
-          "Aliases": [
-            "Nakamura Reno"
-          ]
-        },
-        {
-          "Name": "Sato Rika💎",
-          "Print": "Sato Rika",
-          "Aliases": [
-            "Sato Rika",
-            "Satou Rika"
-          ]
-        },
-        {
-          "Name": "Ito Riria💎",
-          "Print": "Ito Riria",
-          "Aliases": [
-            "Ito Riria",
-            "Itou Riria"
-          ]
-        },
-        {
-          "Name": "Hayashi Runa💎",
-          "Print": "Hayashi Runa",
-          "Aliases": [
-            "Hayashi Runa"
-          ]
-        },
-        {
-          "Name": "Endo Sakura💎",
-          "Print": "Endo Sakura",
-          "Aliases": [
-            "Endo Sakura"
-          ]
-        },
-        {
-          "Name": "Kanagawa Saya💎",
-          "Print": "Kanagawa Saya",
-          "Aliases": [
-            "Kanagawa Saya"
-          ]
-        },
-        {
-          "Name": "Kakehashi Sayaka💎",
-          "Print": "Kakehashi Sayaka",
-          "Aliases": [
-            "Kakehashi Sayaka"
-          ]
-        },
-        {
-          "Name": "Matsumura Sayuri💎",
-          "Print": "Matsumura Sayuri",
-          "Aliases": [
-            "Matsumura Sayuri"
-          ]
-        },
-        {
-          "Name": "Hayakawa Seira💎",
-          "Print": "Hayakawa Seira",
-          "Aliases": [
-            "Hayakawa Seika"
-          ]
-        },
-        {
-          "Name": "Kubo Shiori💎",
-          "Print": "Kubo Shiori",
-          "Aliases": [
-            "Kubo Shiori"
-          ]
-        },
-        {
-          "Name": "Sakaguchi Tamami💎",
-          "Print": "Sakaguchi Tamami",
-          "Aliases": [
-            "Sakaguchi Tamami"
-          ]
-        },
-        {
-          "Name": "Yoda Yuki💎",
-          "Print": "Yoda Yuki",
-          "Aliases": [
-            "Yoda Yuki",
-            "Yoda Yuuki"
-          ]
-        },
-        {
-          "Name": "Shibata Yuna💎",
-          "Print": "Shibata Yuna",
-          "Aliases": [
-            "Shibata Yuna"
-          ]
-        },
-        {
-          "Name": "Kitagawa Yuri💎",
-          "Print": "Kitagawa Yuri",
-          "Aliases": [
-            "Kitagawa Yuri"
-          ]
-        }
-      ]
-    },
-    {
-      "Label": "__**神押し Kami-oshi** - **Keyakizaka46**__",
-      "Pool": "oshi-roles",
-      "Hidden": false,
-      "Limit": 1,
-      "Message": "",
-      "Roles": [
-          {
-            "Name": "Ishimori Nijika💎",
-            "Print": "Ishimori Nijika",
-            "Aliases": [
-              "Ishimori Nijika"
-            ]
-          },
-          {
-            "Name": "Uemura Rina💎",
-            "Print": "Uemura Rina",
-            "Aliases": [
-              "Uemura Rina"
-            ]
-          },
-          {
-            "Name": "Ozeki Rika💎",
-            "Print": "Ozeki Rika",
-            "Aliases": [
-              "Ozeki Rika"
-            ]
-          },
-          {
-            "Name": "Koike Minami💎",
-            "Print": "Koike Minami",
-            "Aliases": [
-              "Koike Minami"
-            ]
-          },
-          {
-            "Name": "Kobayashi Yui💎",
-            "Print": "Kobayashi Yui",
-            "Aliases": [
-              "Kobayashi Yui"
-            ]
-          },
-          {
-            "Name": "Saito Fuyuka💎",
-            "Print": "Saito Fuyuka",
-            "Aliases": [
-              "Saito Fuyuka"
-            ]
-          },
-          {
-            "Name": "Sato Shiori💎",
-            "Print": "Sato Shiori",
-            "Aliases": [
-              "Sato Shiori"
-            ]
-          },
-          {
-            "Name": "Sugai Yuuka💎",
-            "Print": "Sugai Yuuka",
-            "Aliases": [
-              "Sugai Yuuka"
-            ]
-          },
-          {
-            "Name": "Habu Mizuho💎",
-            "Print": "Habu Mizuho",
-            "Aliases": [
-              "Habu Mizuho"
-            ]
-          },
-          {
-            "Name": "Harada Aoi💎",
-            "Print": "Harada Aoi",
-            "Aliases": [
-              "Harada Aoi"
-            ]
-          },
-          {
-            "Name": "Moriya Akane💎",
-            "Print": "Moriya Akane",
-            "Aliases": [
-              "Moriya Akane"
-            ]
-          },
-          {
-            "Name": "Watanabe Rika💎",
-            "Print": "Watanabe Rika",
-            "Aliases": [
-              "Watanabe Rika"
-            ]
-          },
-          {
-            "Name": "Watanabe Risa💎",
-            "Print": "Watanabe Risa",
-            "Aliases": [
-              "Watanabe Risa"
-            ]
-          },
-          {
-            "Name": "Inoue Rina💎",
-            "Print": "Inoue Rina",
-            "Aliases": [
-              "Inoue Rina"
-            ]
-          },
-          {
-            "Name": "Seki Yumiko💎",
-            "Print": "Seki Yumiko",
-            "Aliases": [
-              "Seki Yumiko"
-            ]
-          },
-          {
-            "Name": "Takemoto Yui💎",
-            "Print": "Takemoto Yui",
-            "Aliases": [
-              "Takemoto Yui"
-            ]
-          },
-          {
-            "Name": "Tamura Hono💎",
-            "Print": "Tamura Hono",
-            "Aliases": [
-              "Tamura Hono"
-            ]
-          },
-          {
-            "Name": "Fujiyoshi Karin💎",
-            "Print": "Fujiyoshi Karin",
-            "Aliases": [
-              "Fujiyoshi Karin"
-            ]
-          },
-          {
-            "Name": "Matsuda Rina💎",
-            "Print": "Matsuda Rina",
-            "Aliases": [
-              "Matsuda Rina"
-            ]
-          },
-          {
-            "Name": "Matsudaira Riko💎",
-            "Print": "Matsudaira Riko",
-            "Aliases": [
-              "Matsudaira Riko"
-            ]
-          },
-          {
-            "Name": "Morita Hikaru💎",
-            "Print": "Morita Hikaru",
-            "Aliases": [
-              "Morita Hikaru"
-            ]
-          },
-          {
-            "Name": "Yamasaki Ten💎",
-            "Print": "Yamasaki Ten",
-            "Aliases": [
-              "Yamasaki Ten"
-            ]
-          },
-          {
-            "Name": "Endo Hikari💎",
-            "Print": "Endo Hikari",
-            "Aliases": [
-              "Endo Hikari"
-            ]
-          },
-          {
-            "Name": "Ozono Rei💎",
-            "Print": "Ozono Rei",
-            "Aliases": [
-              "Ozono Rei"
-            ]
-          },
-          {
-            "Name": "Onuma Akiho💎",
-            "Print": "Onuma Akiho",
-            "Aliases": [
-              "Onuma Akiho"
-            ]
-          },
-          {
-            "Name": "Kosaka Marino💎",
-            "Print": "Kosaka Marino",
-            "Aliases": [
-              "Kosaka Marino"
-            ]
-          },
-          {
-            "Name": "Masumoto Kira💎",
-            "Print": "Masumoto Kira",
-            "Aliases": [
-              "Matsumoto Kira"
-            ]
-          },
-          {
-            "Name": "Moriya Rena💎",
-            "Print": "Moriya Rena",
-            "Aliases": [
-              "Moriya Rena"
-            ]
-          }
-      ]
-    },
-    {
-      "Label": "__**神押し Kami-oshi** - **Hinatazaka46**__",
-      "Pool": "oshi-roles",
-      "Hidden": false,
-      "Limit": 1,
-      "Message": "",
-      "Roles": [
-          {
-            "Name": "Ushio Sarina💎",
-            "Print": "Ushio Sarina",
-            "Aliases": [
-              "Ushio Sarina"
-            ]
-          },
-          {
-            "Name": "Kageyama Yuuka💎",
-            "Print": "Kageyama Yuuka ",
-            "Aliases": [
-              "Kageyama Yuuka"
-            ]
-          },
-          {
-            "Name": "Kato Shiho💎",
-            "Print": "Kato Shiho",
-            "Aliases": [
-              "Kato Shiho"
-            ]
-          },
-          {
-            "Name": "Saito Kyoko💎",
-            "Print": "Saito Kyoko",
-            "Aliases": [
-              "Saito Kyoko"
-            ]
-          },
-          {
-            "Name": "Sasaki Kumi💎",
-            "Print": "Sasaki Kumi",
-            "Aliases": [
-              "Sasaki Kumi"
-            ]
-          },
-          {
-            "Name": "Sasaki Mirei💎",
-            "Print": "Sasaki Mirei",
-            "Aliases": [
-              "Sasaki Mirei"
-            ]
-          },
-          {
-            "Name": "Takase Mana💎",
-            "Print": "Takase Mana",
-            "Aliases": [
-              "Takase Mana"
-            ]
-          },
-          {
-            "Name": "Takamoto Ayaka💎",
-            "Print": "Takamoto Ayaka",
-            "Aliases": [
-              "Takamoto Ayaka"
-            ]
-          },
-          {
-            "Name": "Higashimura Mei💎",
-            "Print": "Higashimura Mei",
-            "Aliases": [
-              "Higashimura Mei"
-            ]
-          },
-          {
-            "Name": "Kanemura Miku💎",
-            "Print": "Kanemura Miku",
-            "Aliases": [
-              "Kanemura Miku"
-            ]
-          },
-          {
-            "Name": "Kawata Hina💎",
-            "Print": "Kawata Hina",
-            "Aliases": [
-              "Kawata Hina"
-            ]
-          },
-          {
-            "Name": "Kosaka Nao💎",
-            "Print": "Kosaka Nao",
-            "Aliases": [
-              "Kosaka Nao"
-            ]
-          },
-          {
-            "Name": "Tomita Suzuka💎",
-            "Print": "Tomita Suzuka",
-            "Aliases": [
-              "Tomita Suzuka"
-            ]
-          },
-          {
-            "Name": "Nibu Akari💎",
-            "Print": "Nibu Akari",
-            "Aliases": [
-              "Nibu Akari"
-            ]
-          },
-          {
-            "Name": "Hamagishi Hiyori💎",
-            "Print": "Hamagishi Hiyori",
-            "Aliases": [
-              "Hamagishi Hiyori"
-            ]
-          },
-          {
-            "Name": "Matsuda Konoka💎",
-            "Print": "Matsuda Konoka",
-            "Aliases": [
-              "Matsuda Konoka"
-            ]
-          },
-          {
-            "Name": "Miyata Manamo💎",
-            "Print": "Miyata Manamo",
-            "Aliases": [
-              "Miyata Manamo"
-            ]
-          },
-          {
-            "Name": "Watanabe Miho💎",
-            "Print": "Watanabe Miho",
-            "Aliases": [
-              "Watanabe Miho"
-            ]
-          },
-          {
-            "Name": "Kanimura Hinano💎",
-            "Print": "Kanimura Hinano",
-            "Aliases": [
-              "Kanimura Hinano"
-            ]
-          },
-          {
-            "Name" : "Takahashi Mikuni💎",
-            "Print" : "Takahashi Mikuni",
-            "Aliases" : [
-              "Takahashi Mikuni"
-            ]
-          },
-          {
-            "Name": "Morimoto Mari💎",
-            "Print": "Morimoto Mari",
-            "Aliases": [
-              "Morimoto Mari"
-            ]
-          },
-          {
-            "Name": "Yamaguchi Haruyo💎",
-            "Print": "Yamaguchi Haruyo",
-            "Aliases": [                                                                                
-              "Yamaguchi Haruyo"
-            ]
-          }
-      ]
-    },
-    {
-        "Label": "__**押し Oshi** - **Nogizaka46**__",
+        "Label": "\n__Nogizaka46__",
+        "Message": ":warning:Bot tidak memberi role? Mau role eks-member? ping mod di #suggestions\n\n:warning: The bot doesn't give you any role? Want an ex-member role? Ping mod in #suggestions\n\n:white_flower:__**神押し Kami-oshi**__\n:flag_gb: Type long name for your **one and only** favourite oshi (kamioshi:gem:).\n:flag_id: Kalian hanya bisa memilih **satu oshi favorit** (kamioshi:gem:) dengan mengetikkan nama panjang.",
         "Pool": "oshi-roles",
         "Hidden": false,
-        "Limit": -1,
-        "Message": ":white_flower: :flag_gb: This is for your oshi (押し). :flag_id: Kalian bisa memilih oshi di sini. :flag_jp: リストによる押しの名前をかいてください。",
+        "Limit": 1,
         "Roles": [
-          {
-            "Name": "Saito Asuka",
-            "Print": "Ashurin",
-            "Aliases": [
-              "Ashurin"                                                             
-            ] 
-          },
-          {
-            "Name": "Tsutsui Ayame",
-            "Print": "Ayamen",
-            "Aliases": [
-              "Ayamen"
-            ]
-          },
-          {
-            "Name": "Suzuki Ayane",
-            "Print": "Aachan",
-            "Aliases": [
-              "Aachan"
-            ]
-          },
-          {
-            "Name": "Yoshida Ayano Christie",
-            "Print": "Ayatii",
-            "Aliases": [
-              "Ayatii"
-            ]
-          },
-          {
-            "Name": "Ikuta Erika",
-            "Print": "Ikuchan",
-            "Aliases": [
-              "Ikuchan"
-            ]
-          },
-          {
-            "Name": "Kaki Haruka",
-            "Print": "Kakki",
-            "Aliases": [
-              "Kakki"
-            ]
-          },
-          {
-            "Name": "Kuromi Haruka",
-            "Print": "Kuromin",
-            "Aliases": [
-              "Kuromichan",
-              "Kuromin"
-            ]
-          },
-          {
-            "Name": "Mukai Hazuki",
-            "Print": "Mukai",
-            "Aliases": [
-              "Mukai"
-            ]
-          },
-          {
-            "Name": "Higuchi Hina",
-            "Print": "Hinachima",
-            "Aliases": [
-              "Hinachima"
-            ]
-          },
-          {
-            "Name": "Kitano Hinako",
-            "Print": "Kiichan",
-            "Aliases": [
-              "Kiichan"
-            ]
-          },
-          {
-            "Name": "Ito Junna",
-            "Print": "Junna",
-            "Aliases": [
-              "Junna"
-            ]
-          },
-          {
-            "Name": "Sato Kaede",
-            "Print": "Denchan",
-            "Aliases": [
-              "Denchan"
-            ]
-          },
-          {
-            "Name": "Nakada Kana",
-            "Print": "Kanarin",
-            "Aliases": [
-              "Kanarin"
-            ]
-          },
-          {
-            "Name": "Takayama Kazumi",
-            "Print": "Kazumin",
-            "Aliases": [
-              "Kazumin"
-            ]
-          },
-          {
-            "Name": "Wada Maaya",
-            "Print": "Maaya",
-            "Aliases": [
-              "Maaya"
-            ]
-          },
-          {
-            "Name": "Shinuchi Mai",
-            "Print": "Maichun",
-            "Aliases": [
-              "Maichun"
-            ]
-          },
-          {
-            "Name": "Shiraishi Mai",
-            "Print": "Maiyan",
-            "Aliases": [
-              "Maiyan"
-            ]
-          },
-          {
-            "Name": "Akimoto Manatsu",
-            "Print": "Manatsu",
-            "Aliases": [
-              "Manatsu"
-            ]
-          },
-          {
-            "Name": "Tamura Mayu",
-            "Print": "Mayutan",
-            "Aliases": [
-              "Mayutan"
-            ]
-          },
-          {
-            "Name": "Hoshino Minami",
-            "Print": "Hoshimina",
-            "Aliases": [
-              "Hoshimina"
-            ]
-          },
-          {
-            "Name": "Umezawa Minami",
-            "Print": "Minamin",
-            "Aliases": [
-              "Minamin"
-            ]
-          },
-          {
-            "Name": "Yakubo Mio",
-            "Print": "Yakubo",
-            "Aliases": [
-              "Yakubo"
-            ]
-          },
-          {
-            "Name": "Hori Miona",
-            "Print": "Miona",
-            "Aliases": [
-              "Miona"
-            ]
-          },
-          {
-            "Name": "Watanabe Miria",
-            "Print": "Miririn",
-            "Aliases": [
-              "Miririn"
-            ]
-          },
-          {
-            "Name": "Matsuo Miyu",
-            "Print": "Miyuchan",
-            "Aliases": [
-              "Miyuchan"
-            ]
-          },
-          {
-            "Name": "Yamashita Mizuki",
-            "Print": "Zukkii",
-            "Aliases": [
-              "Zukkii"
-            ]
-          },
-          {
-            "Name": "Ozono Momoko",
-            "Print": "Momoko",
-            "Aliases": [
-              "Momoko"
-            ]
-          },
-          {
-            "Name": "Yumiki Nao",
-            "Print": "Naochan",
-            "Aliases": [
-              "Naochan"
-            ]
-          },
-          {
-            "Name": "Terada Ranze",
-            "Print": "Ranran",
-            "Aliases": [
-              "Ranran"
-            ]
-          },
-          {
-            "Name": "Seimiya Rei",
-            "Print": "Reichan",
-            "Aliases": [
-              "Reichan"
-            ]
-          },
-          {
-            "Name": "Yamazaki Rena",
-            "Print": "Renachi",
-            "Aliases": [
-              "Renachi"
-            ]
-          },
-          {
-            "Name": "Iwamoto Renka",
-            "Print": "Rentan",
-            "Aliases": [
-              "Rentan"
-            ]
-          },
-          {
-            "Name": "Nakamura Reno",
-            "Print": "Reno",
-            "Aliases": [
-              "Reno"
-            ]
-          },
-          {
-            "Name": "Sato Rika",
-            "Print": "Rikachan",
-            "Aliases": [
-              "Rikachan"
-            ]
-          },
-          {
-            "Name": "Ito Riria",
-            "Print": "Ririan",
-            "Aliases": [
-              "Ririan"
-            ]
-          },
-          {
-            "Name": "Hayashi Runa",
-            "Print": "Runachan",
-            "Aliases": [
-              "Runachan"
-            ]
-          },
-          {
-            "Name": "Endo Sakura",
-            "Print": "Sakura",
-            "Aliases": [
-              "Sakura"
-            ]
-          },
-          {
-            "Name": "Kanagawa Saya",
-            "Print": "Yanchan",
-            "Aliases": [
-              "Yanchan"
-            ]
-          },
-          {
-            "Name": "Kakehashi Sayaka",
-            "Print": "Saachan",
-            "Aliases": [
-              "Saachan"
-            ]
-          },
-          {
-            "Name": "Matsumura Sayuri",
-            "Print": "Sayurin",
-            "Aliases": [
-              "Sayurin"
-            ]
-          },
-          {
-            "Name": "Hayakawa Seira",
-            "Print": "Seira",
-            "Aliases": [
-              "Seira"
-            ]
-          },
-          {
-            "Name": "Kubo Shiori",
-            "Print": "Kubochan",
-            "Aliases": [
-              "Kubochan"
-            ]
-          },
-          {
-            "Name": "Sakaguchi Tamami",
-            "Print": "Tamami",
-            "Aliases": [
-              "Tamami"
-            ]
-          },
-          {
-            "Name": "Yoda Yuki",
-            "Print": "Yodachan",
-            "Aliases": [
-              "Yodachan"
-            ]
-          },
-          {
-            "Name": "Shibata Yuna",
-            "Print": "Yunachan",
-            "Aliases": [
-              "Yunachan"
-            ]
-          },
-          {
-            "Name": "Kitagawa Yuri",
-            "Print": "Yuri",
-            "Aliases": [
-              "Yuri"
-            ]
-          }
+            {
+                "Name": "Saito Asuka💎",
+                "Print": "Saito Asuka",
+                "Aliases": [
+                    "Saito Asuka",
+                    "Saitou Asuka"
+                ],
+                "Reactions": []
+            },
+            {
+                "Name": "Tsutsui Ayame💎",
+                "Print": "Tsutsui Ayame",
+                "Aliases": [
+                    "Tsutsui Ayame"
+                ],
+                "Reactions": []
+            },
+            {
+                "Name": "Suzuki Ayane💎",
+                "Print": "Suzuki Ayane",
+                "Aliases": [
+                    "Suzuki Ayane"
+                ],
+                "Reactions": []
+            },
+            {
+                "Name": "Yoshida Ayano Christie💎",
+                "Print": "Yoshida Ayano Christie",
+                "Aliases": [
+                    "Yoshida Ayano Christie"
+                ],
+                "Reactions": []
+            },
+            {
+                "Name": "Ikuta Erika💎",
+                "Print": "Ikuta Erika",
+                "Aliases": [
+                    "Ikuta Erika"
+                ],
+                "Reactions": []
+            },
+            {
+                "Name": "Kaki Haruka💎",
+                "Print": "Kaki Haruka",
+                "Aliases": [
+                    "Kaki Haruka"
+                ],
+                "Reactions": []
+            },
+            {
+                "Name": "Kuromi Haruka💎",
+                "Print": "Kuromi Haruka",
+                "Aliases": [
+                    "Kuromi Haruka"
+                ],
+                "Reactions": []
+            },
+            {
+                "Name": "Mukai Hazuki💎",
+                "Print": "Mukai Hazuki",
+                "Aliases": [
+                    "Mukai Hazuki"
+                ],
+                "Reactions": []
+            },
+            {
+                "Name": "Higuchi Hina💎",
+                "Print": "Higuchi Hina",
+                "Aliases": [
+                    "Higuchi Hina"
+                ],
+                "Reactions": []
+            },
+            {
+                "Name": "Kitano Hinako💎",
+                "Print": "Kitano Hinako",
+                "Aliases": [
+                    "Kitano Hinako"
+                ],
+                "Reactions": []
+            },
+            {
+                "Name": "Ito Junna💎",
+                "Print": "Ito Junna",
+                "Aliases": [
+                    "Ito Junna",
+                    "Itou Junna"
+                ],
+                "Reactions": []
+            },
+            {
+                "Name": "Sato Kaede💎",
+                "Print": "Sato Kaede",
+                "Aliases": [
+                    "Sato Kaede",
+                    "Satou Kaede"
+                ],
+                "Reactions": []
+            },
+            {
+                "Name": "Nakada Kana💎",
+                "Print": "Nakada Kana",
+                "Aliases": [
+                    "Nakada Kana"
+                ],
+                "Reactions": []
+            },
+            {
+                "Name": "Takayama Kazumi💎",
+                "Print": "Takayama Kazumi",
+                "Aliases": [
+                    "Takayama Kazumi"
+                ],
+                "Reactions": []
+            },
+            {
+                "Name": "Wada Maaya💎",
+                "Print": "Wada Maaya",
+                "Aliases": [
+                    "Wada Maaya"
+                ],
+                "Reactions": []
+            },
+            {
+                "Name": "Shinuchi Mai💎",
+                "Print": "Shinuchi Mai",
+                "Aliases": [
+                    "Shinuchi Mai"
+                ],
+                "Reactions": []
+            },
+            {
+                "Name": "Shiraishi Mai💎",
+                "Print": "Shiraishi Mai",
+                "Aliases": [
+                    "Shiraishi Mai"
+                ],
+                "Reactions": []
+            },
+            {
+                "Name": "Akimoto Manatsu💎",
+                "Print": "Akimoto Manatsu",
+                "Aliases": [
+                    "Akimoto Manatsu"
+                ],
+                "Reactions": []
+            },
+            {
+                "Name": "Tamura Mayu💎",
+                "Print": "Tamura Mayu",
+                "Aliases": [
+                    "Tamura Mayu"
+                ],
+                "Reactions": []
+            },
+            {
+                "Name": "Hoshino Minami💎",
+                "Print": "Hoshino Minami",
+                "Aliases": [
+                    "Hoshino Minami"
+                ],
+                "Reactions": []
+            },
+            {
+                "Name": "Umezawa Minami💎",
+                "Print": "Umezawa Minami",
+                "Aliases": [
+                    "Umezawa Minami"
+                ],
+                "Reactions": []
+            },
+            {
+                "Name": "Yakubo Mio💎",
+                "Print": "Yakubo Mio",
+                "Aliases": [
+                    "Yakubo Mio"
+                ],
+                "Reactions": []
+            },
+            {
+                "Name": "Hori Miona💎",
+                "Print": "Hori Miona",
+                "Aliases": [
+                    "Hori Miona"
+                ],
+                "Reactions": []
+            },
+            {
+                "Name": "Watanabe Miria💎",
+                "Print": "Watanabe Miria",
+                "Aliases": [
+                    "Watanabe Miria"
+                ],
+                "Reactions": []
+            },
+            {
+                "Name": "Matsuo Miyu💎",
+                "Print": "Matsuo Miyu",
+                "Aliases": [
+                    "Matsuo Miyu"
+                ],
+                "Reactions": []
+            },
+            {
+                "Name": "Yamashita Mizuki💎",
+                "Print": "Yamashita Mizuki",
+                "Aliases": [
+                    "Yamashita Mizuki"
+                ],
+                "Reactions": []
+            },
+            {
+                "Name": "Ozono Momoko💎",
+                "Print": "Ozono Momoko",
+                "Aliases": [
+                    "Ozono Momoko",
+                    "Oozono Momoko"
+                ],
+                "Reactions": []
+            },
+            {
+                "Name": "Yumiki Nao💎",
+                "Print": "Yumiki Nao",
+                "Aliases": [
+                    "Yumiki Nao"
+                ],
+                "Reactions": []
+            },
+            {
+                "Name": "Terada Ranze💎",
+                "Print": "Terada Ranze",
+                "Aliases": [
+                    "Terada Ranze"
+                ],
+                "Reactions": []
+            },
+            {
+                "Name": "Seimiya Rei💎",
+                "Print": "Seimiya Rei",
+                "Aliases": [
+                    "Seimiya Rei"
+                ],
+                "Reactions": []
+            },
+            {
+                "Name": "Yamazaki Rena💎",
+                "Print": "Yamazaki Rena",
+                "Aliases": [
+                    "Yamazaki Rena"
+                ],
+                "Reactions": []
+            },
+            {
+                "Name": "Iwamoto Renka💎",
+                "Print": "Iwamoto Renka",
+                "Aliases": [
+                    "Iwamoto Renka"
+                ],
+                "Reactions": []
+            },
+            {
+                "Name": "Nakamura Reno💎",
+                "Print": "Nakamura Reno",
+                "Aliases": [
+                    "Nakamura Reno"
+                ],
+                "Reactions": []
+            },
+            {
+                "Name": "Sato Rika💎",
+                "Print": "Sato Rika",
+                "Aliases": [
+                    "Sato Rika",
+                    "Satou Rika"
+                ],
+                "Reactions": []
+            },
+            {
+                "Name": "Ito Riria💎",
+                "Print": "Ito Riria",
+                "Aliases": [
+                    "Ito Riria",
+                    "Itou Riria"
+                ],
+                "Reactions": []
+            },
+            {
+                "Name": "Hayashi Runa💎",
+                "Print": "Hayashi Runa",
+                "Aliases": [
+                    "Hayashi Runa"
+                ],
+                "Reactions": []
+            },
+            {
+                "Name": "Endo Sakura💎",
+                "Print": "Endo Sakura",
+                "Aliases": [
+                    "Endo Sakura"
+                ],
+                "Reactions": []
+            },
+            {
+                "Name": "Kanagawa Saya💎",
+                "Print": "Kanagawa Saya",
+                "Aliases": [
+                    "Kanagawa Saya"
+                ],
+                "Reactions": []
+            },
+            {
+                "Name": "Kakehashi Sayaka💎",
+                "Print": "Kakehashi Sayaka",
+                "Aliases": [
+                    "Kakehashi Sayaka"
+                ],
+                "Reactions": []
+            },
+            {
+                "Name": "Matsumura Sayuri💎",
+                "Print": "Matsumura Sayuri",
+                "Aliases": [
+                    "Matsumura Sayuri"
+                ],
+                "Reactions": []
+            },
+            {
+                "Name": "Hayakawa Seira💎",
+                "Print": "Hayakawa Seira",
+                "Aliases": [
+                    "Hayakawa Seika"
+                ],
+                "Reactions": []
+            },
+            {
+                "Name": "Kubo Shiori💎",
+                "Print": "Kubo Shiori",
+                "Aliases": [
+                    "Kubo Shiori"
+                ],
+                "Reactions": []
+            },
+            {
+                "Name": "Sakaguchi Tamami💎",
+                "Print": "Sakaguchi Tamami",
+                "Aliases": [
+                    "Sakaguchi Tamami"
+                ],
+                "Reactions": []
+            },
+            {
+                "Name": "Yoda Yuki💎",
+                "Print": "Yoda Yuki",
+                "Aliases": [
+                    "Yoda Yuki",
+                    "Yoda Yuuki"
+                ],
+                "Reactions": []
+            },
+            {
+                "Name": "Shibata Yuna💎",
+                "Print": "Shibata Yuna",
+                "Aliases": [
+                    "Shibata Yuna"
+                ],
+                "Reactions": []
+            },
+            {
+                "Name": "Kitagawa Yuri💎",
+                "Print": "Kitagawa Yuri",
+                "Aliases": [
+                    "Kitagawa Yuri"
+                ],
+                "Reactions": []
+            }
         ]
     },
     {
-        "Label": "__**押し Oshi** - **Keyakizaka46**__",
-        "Pool": "oshi-roles",
-        "Hidden": false,
-        "Limit": -1,
+        "Label": "\n__Keyakizaka46__",
         "Message": "",
+        "Pool": "oshi-roles",
+        "Hidden": false,
+        "Limit": 1,
         "Roles": [
-          {
-            "Name": "Ishimori Nijika",
-            "Print": "Nijipon",
-            "Aliases": [
-              "Nijipon"
-            ]
-          },
-          {
-            "Name": "Uemura Rina",
-            "Print": "Uemuu",
-            "Aliases": [
-              "Uemuu"
-            ]
-          },
-          {
-            "Name": "Ozeki Rika",
-            "Print": "Riichan",
-            "Aliases": [
-              "Riichan"
-            ]
-          },
-          {
-            "Name": "Koike Minami",
-            "Print": "Miichan",
-            "Aliases": [
-              "Miichan"
-            ]
-          },
-          {
-            "Name": "Kobayashi Yui",
-            "Print": "Yuipon",
-            "Aliases": [
-              "Yuipon"
-            ]
-          },
-          {
-            "Name": "Saito Fuyuka",
-            "Print": "Fuuchan",
-            "Aliases": [
-              "Fuuchan"
-            ]
-          },
-          {
-            "Name": "Sato Shiori",
-            "Print": "Satoshi",
-            "Aliases": [
-              "Satoshi"
-            ]
-          },
-          {
-            "Name": "Sugai Yuuka",
-            "Print": "Yukka",
-            "Aliases": [
-              "Yukka"
-            ]
-          },
-          {
-            "Name": "Habu Mizuho",
-            "Print": "Mizuchan",
-            "Aliases": [
-              "Mizuchan"
-            ]
-          },
-          {
-            "Name": "Harada Aoi",
-            "Print": "Aoi",
-            "Aliases": [
-              "Aoi"
-            ]
-          },
-          {
-            "Name": "Moriya Akane",
-            "Print": "Akanen",
-            "Aliases": [
-              "Akanen"
-            ]
-          },
-          {
-            "Name": "Watanabe Rika",
-            "Print": "Berika",
-            "Aliases": [
-              "Berika"
-            ]
-          },
-          {
-            "Name": "Watanabe Risa",
-            "Print": "Berisa",
-            "Aliases": [
-              "Berisa"
-            ]
-          },
-          {
-            "Name": "Inoue Rina",
-            "Print": "Inoue",
-            "Aliases": [
-              "Inoue"
-            ]
-          },
-          {
-            "Name": "Seki Yumiko",
-            "Print": "Seki",
-            "Aliases": [
-              "Seki"
-            ]
-          },
-          {
-            "Name": "Takemoto Yui",
-            "Print": "Takemoto",
-            "Aliases": [
-              "Takemoto"
-            ]
-          },
-          {
-            "Name": "Tamura Hono",
-            "Print": "Tamura",
-            "Aliases": [
-              "Tamura"
-            ]
-          },
-          {
-            "Name": "Fujiyoshi Karin",
-            "Print": "Fujiyoshi",
-            "Aliases": [
-              "Fujiyoshi"
-            ]
-          },
-          {
-            "Name": "Matsuda Rina",
-            "Print": "Matsuda",
-            "Aliases": [
-              "Matsuda"
-            ]
-          },
-          {
-            "Name": "Matsudaira Riko",
-            "Print": "Matsudaira",
-            "Aliases": [
-              "Matsudaira"
-            ]
-          },
-          {
-            "Name": "Morita Hikaru",
-            "Print": "Morita",
-            "Aliases": [
-              "Morita"
-            ]
-          },
-          {
-            "Name": "Yamasaki Ten",
-            "Print": "Yamasaki",
-            "Aliases": [
-              "Yamasaki"
-            ]
-          },
-          {
-            "Name": "Endo Hikari",
-            "Print": "Endo",
-            "Aliases": [
-              "Endo"
-            ]
-          },
-          {
-            "Name": "Ozono Rei",
-            "Print": "Ozono",
-            "Aliases": [
-              "Ozono"
-            ]
-          },
-          {
-            "Name": "Onuma Akiho",
-            "Print": "Onuma",
-            "Aliases": [
-              "Onuma"
-            ]
-          },
-          {
-            "Name": "Kosaka Marino",
-            "Print": "Kosaka",
-            "Aliases": [
-              "Kosaka"
-            ]
-          },
-          {
-            "Name": "Matsumoto Kira",
-            "Print": "Matsumoto",
-            "Aliases": [
-              "Matsumoto"
-            ]
-          },
-          {
-            "Name": "Moriya Rena",
-            "Print": "Moriya",
-            "Aliases": [
-              "Moriya"
-            ]
-          }
+            {
+                "Name": "Ishimori Nijika💎",
+                "Print": "Ishimori Nijika",
+                "Aliases": [
+                    "Ishimori Nijika"
+                ],
+                "Reactions": []
+            },
+            {
+                "Name": "Uemura Rina💎",
+                "Print": "Uemura Rina",
+                "Aliases": [
+                    "Uemura Rina"
+                ],
+                "Reactions": []
+            },
+            {
+                "Name": "Ozeki Rika💎",
+                "Print": "Ozeki Rika",
+                "Aliases": [
+                    "Ozeki Rika"
+                ],
+                "Reactions": []
+            },
+            {
+                "Name": "Koike Minami💎",
+                "Print": "Koike Minami",
+                "Aliases": [
+                    "Koike Minami"
+                ],
+                "Reactions": []
+            },
+            {
+                "Name": "Kobayashi Yui💎",
+                "Print": "Kobayashi Yui",
+                "Aliases": [
+                    "Kobayashi Yui"
+                ],
+                "Reactions": []
+            },
+            {
+                "Name": "Saito Fuyuka💎",
+                "Print": "Saito Fuyuka",
+                "Aliases": [
+                    "Saito Fuyuka"
+                ],
+                "Reactions": []
+            },
+            {
+                "Name": "Sato Shiori💎",
+                "Print": "Sato Shiori",
+                "Aliases": [
+                    "Sato Shiori"
+                ],
+                "Reactions": []
+            },
+            {
+                "Name": "Sugai Yuuka💎",
+                "Print": "Sugai Yuuka",
+                "Aliases": [
+                    "Sugai Yuuka"
+                ],
+                "Reactions": []
+            },
+            {
+                "Name": "Habu Mizuho💎",
+                "Print": "Habu Mizuho",
+                "Aliases": [
+                    "Habu Mizuho"
+                ],
+                "Reactions": []
+            },
+            {
+                "Name": "Harada Aoi💎",
+                "Print": "Harada Aoi",
+                "Aliases": [
+                    "Harada Aoi"
+                ],
+                "Reactions": []
+            },
+            {
+                "Name": "Moriya Akane💎",
+                "Print": "Moriya Akane",
+                "Aliases": [
+                    "Moriya Akane"
+                ],
+                "Reactions": []
+            },
+            {
+                "Name": "Watanabe Rika💎",
+                "Print": "Watanabe Rika",
+                "Aliases": [
+                    "Watanabe Rika"
+                ],
+                "Reactions": []
+            },
+            {
+                "Name": "Watanabe Risa💎",
+                "Print": "Watanabe Risa",
+                "Aliases": [
+                    "Watanabe Risa"
+                ],
+                "Reactions": []
+            },
+            {
+                "Name": "Inoue Rina💎",
+                "Print": "Inoue Rina",
+                "Aliases": [
+                    "Inoue Rina"
+                ],
+                "Reactions": []
+            },
+            {
+                "Name": "Seki Yumiko💎",
+                "Print": "Seki Yumiko",
+                "Aliases": [
+                    "Seki Yumiko"
+                ],
+                "Reactions": []
+            },
+            {
+                "Name": "Takemoto Yui💎",
+                "Print": "Takemoto Yui",
+                "Aliases": [
+                    "Takemoto Yui"
+                ],
+                "Reactions": []
+            },
+            {
+                "Name": "Tamura Hono💎",
+                "Print": "Tamura Hono",
+                "Aliases": [
+                    "Tamura Hono"
+                ],
+                "Reactions": []
+            },
+            {
+                "Name": "Fujiyoshi Karin💎",
+                "Print": "Fujiyoshi Karin",
+                "Aliases": [
+                    "Fujiyoshi Karin"
+                ],
+                "Reactions": []
+            },
+            {
+                "Name": "Matsuda Rina💎",
+                "Print": "Matsuda Rina",
+                "Aliases": [
+                    "Matsuda Rina"
+                ],
+                "Reactions": []
+            },
+            {
+                "Name": "Matsudaira Riko💎",
+                "Print": "Matsudaira Riko",
+                "Aliases": [
+                    "Matsudaira Riko"
+                ],
+                "Reactions": []
+            },
+            {
+                "Name": "Morita Hikaru💎",
+                "Print": "Morita Hikaru",
+                "Aliases": [
+                    "Morita Hikaru"
+                ],
+                "Reactions": []
+            },
+            {
+                "Name": "Yamasaki Ten💎",
+                "Print": "Yamasaki Ten",
+                "Aliases": [
+                    "Yamasaki Ten"
+                ],
+                "Reactions": []
+            },
+            {
+                "Name": "Endo Hikari💎",
+                "Print": "Endo Hikari",
+                "Aliases": [
+                    "Endo Hikari"
+                ],
+                "Reactions": []
+            },
+            {
+                "Name": "Ozono Rei💎",
+                "Print": "Ozono Rei",
+                "Aliases": [
+                    "Ozono Rei"
+                ],
+                "Reactions": []
+            },
+            {
+                "Name": "Onuma Akiho💎",
+                "Print": "Onuma Akiho",
+                "Aliases": [
+                    "Onuma Akiho"
+                ],
+                "Reactions": []
+            },
+            {
+                "Name": "Kosaka Marino💎",
+                "Print": "Kosaka Marino",
+                "Aliases": [
+                    "Kosaka Marino"
+                ],
+                "Reactions": []
+            },
+            {
+                "Name": "Masumoto Kira💎",
+                "Print": "Masumoto Kira",
+                "Aliases": [
+                    "Matsumoto Kira"
+                ],
+                "Reactions": []
+            },
+            {
+                "Name": "Moriya Rena💎",
+                "Print": "Moriya Rena",
+                "Aliases": [
+                    "Moriya Rena"
+                ],
+                "Reactions": []
+            }
         ]
     },
     {
-        "Label": "__**押し Oshi** - **Hinatazaka46**__",
+        "Label": "\n__Hinatazaka46__",
+        "Message": "",
+        "Pool": "oshi-roles",
+        "Hidden": false,
+        "Limit": 1,
+        "Roles": [
+            {
+                "Name": "Ushio Sarina💎",
+                "Print": "Ushio Sarina",
+                "Aliases": [
+                    "Ushio Sarina"
+                ],
+                "Reactions": []
+            },
+            {
+                "Name": "Kageyama Yuuka💎",
+                "Print": "Kageyama Yuuka ",
+                "Aliases": [
+                    "Kageyama Yuuka"
+                ],
+                "Reactions": []
+            },
+            {
+                "Name": "Kato Shiho💎",
+                "Print": "Kato Shiho",
+                "Aliases": [
+                    "Kato Shiho"
+                ],
+                "Reactions": []
+            },
+            {
+                "Name": "Saito Kyoko💎",
+                "Print": "Saito Kyoko",
+                "Aliases": [
+                    "Saito Kyoko"
+                ],
+                "Reactions": []
+            },
+            {
+                "Name": "Sasaki Kumi💎",
+                "Print": "Sasaki Kumi",
+                "Aliases": [
+                    "Sasaki Kumi"
+                ],
+                "Reactions": []
+            },
+            {
+                "Name": "Sasaki Mirei💎",
+                "Print": "Sasaki Mirei",
+                "Aliases": [
+                    "Sasaki Mirei"
+                ],
+                "Reactions": []
+            },
+            {
+                "Name": "Takase Mana💎",
+                "Print": "Takase Mana",
+                "Aliases": [
+                    "Takase Mana"
+                ],
+                "Reactions": []
+            },
+            {
+                "Name": "Takamoto Ayaka💎",
+                "Print": "Takamoto Ayaka",
+                "Aliases": [
+                    "Takamoto Ayaka"
+                ],
+                "Reactions": []
+            },
+            {
+                "Name": "Higashimura Mei💎",
+                "Print": "Higashimura Mei",
+                "Aliases": [
+                    "Higashimura Mei"
+                ],
+                "Reactions": []
+            },
+            {
+                "Name": "Kanemura Miku💎",
+                "Print": "Kanemura Miku",
+                "Aliases": [
+                    "Kanemura Miku"
+                ],
+                "Reactions": []
+            },
+            {
+                "Name": "Kawata Hina💎",
+                "Print": "Kawata Hina",
+                "Aliases": [
+                    "Kawata Hina"
+                ],
+                "Reactions": []
+            },
+            {
+                "Name": "Kosaka Nao💎",
+                "Print": "Kosaka Nao",
+                "Aliases": [
+                    "Kosaka Nao"
+                ],
+                "Reactions": []
+            },
+            {
+                "Name": "Tomita Suzuka💎",
+                "Print": "Tomita Suzuka",
+                "Aliases": [
+                    "Tomita Suzuka"
+                ],
+                "Reactions": []
+            },
+            {
+                "Name": "Nibu Akari💎",
+                "Print": "Nibu Akari",
+                "Aliases": [
+                    "Nibu Akari"
+                ],
+                "Reactions": []
+            },
+            {
+                "Name": "Hamagishi Hiyori💎",
+                "Print": "Hamagishi Hiyori",
+                "Aliases": [
+                    "Hamagishi Hiyori"
+                ],
+                "Reactions": []
+            },
+            {
+                "Name": "Matsuda Konoka💎",
+                "Print": "Matsuda Konoka",
+                "Aliases": [
+                    "Matsuda Konoka"
+                ],
+                "Reactions": []
+            },
+            {
+                "Name": "Miyata Manamo💎",
+                "Print": "Miyata Manamo",
+                "Aliases": [
+                    "Miyata Manamo"
+                ],
+                "Reactions": []
+            },
+            {
+                "Name": "Watanabe Miho💎",
+                "Print": "Watanabe Miho",
+                "Aliases": [
+                    "Watanabe Miho"
+                ],
+                "Reactions": []
+            },
+            {
+                "Name": "Kanimura Hinano💎",
+                "Print": "Kanimura Hinano",
+                "Aliases": [
+                    "Kanimura Hinano"
+                ],
+                "Reactions": []
+            },
+            {
+                "Name": "Takahashi Mikuni💎",
+                "Print": "Takahashi Mikuni",
+                "Aliases": [
+                    "Takahashi Mikuni"
+                ],
+                "Reactions": []
+            },
+            {
+                "Name": "Morimoto Mari💎",
+                "Print": "Morimoto Mari",
+                "Aliases": [
+                    "Morimoto Mari"
+                ],
+                "Reactions": []
+            },
+            {
+                "Name": "Yamaguchi Haruyo💎",
+                "Print": "Yamaguchi Haruyo",
+                "Aliases": [
+                    "Yamaguchi Haruyo"
+                ],
+                "Reactions": []
+            }
+        ]
+    },
+    {
+        "Label": "\n__Nogizaka46__",
+        "Message": "\n:white_flower:__**押し Oshi**__\n:flag_gb: The next one is **your oshi**. You can choose __as many as you want__.\n:flag_id: Selanjutnya, **role oshi**. Kalian bisa memilih role oshi __sebanyak mungkin__.",
         "Pool": "oshi-roles",
         "Hidden": false,
         "Limit": -1,
-        "Message": "",
         "Roles": [
-          {
-            "Name": "Ushio Sarina",
-            "Print": "Sarina",
-            "Aliases": [
-              "Sarina"
-            ]
-          },
-          {
-            "Name": "Kageyama Yuuka",
-            "Print": "Kagechan",
-            "Aliases": [
-              "Kagechan"
-            ]
-          },
-          {
-            "Name": "Kato Shiho",
-            "Print": "Katoshi",
-            "Aliases": [
-              "Katoshi"
-            ]
-          },
-          {
-            "Name": "Saito Kyoko",
-            "Print": "Kyonko",
-            "Aliases": [
-              "Kyonko"
-            ]
-          },
-          {
-            "Name": "Sasaki Kumi",
-            "Print": "Kumi",
-            "Aliases": [
-              "Kumi"
-            ]
-          },
-          {
-            "Name": "Sasaki Mirei",
-            "Print": "Miipan",
-            "Aliases": [
-              "Miipan"
-            ]
-          },
-          {
-            "Name": "Takase Mana",
-            "Print": "Manafi",
-            "Aliases": [
-              "Manafi"
-            ]
-          },
-          {
-            "Name": "Takamoto Ayaka",
-            "Print": "Ponchan",
-            "Aliases": [
-              "Ponchan"
-            ]
-          },
-          {
-            "Name": "Higashimura Mei",
-            "Print": "MeiMei",
-            "Aliases": [
-              "MeiMei"
-            ]
-          },
-          {
-            "Name": "Kanemura Miku",
-            "Print": "Osushi",
-            "Aliases": [
-              "Osushi"
-            ]
-          },
-          {
-            "Name": "Kawata Hina",
-            "Print": "Kawata",
-            "Aliases": [
-              "Kawata"
-            ]
-          },
-          {
-            "Name": "Kosaka Nao",
-            "Print": "Nao",
-            "Aliases": [
-              "Nao"
-            ]
-          },
-          {
-            "Name": "Tomita Suzuka",
-            "Print": "Tomita",
-            "Aliases": [
-              "Tomita"
-            ]
-          },
-          {
-            "Name": "Nibu Akari",
-            "Print": "Nibu",
-            "Aliases": [
-              "Nibu"
-            ]
-          },
-          {
-            "Name": "Hamagishi Hiyori",
-            "Print": "Hiyotan",
-            "Aliases": [
-              "Hiyotan"
-            ]
-          },
-          {
-            "Name": "Matsuda Konoka",
-            "Print": "Konoka",
-            "Aliases": [
-              "Konoka"
-            ]
-          },
-          {
-            "Name": "Miyata Manamo",
-            "Print": "Manamo",
-            "Aliases": [
-              "Manamo"
-            ]
-          },
-          {
-            "Name": "Watanabe Miho",
-            "Print": "Bemiho",
-            "Aliases": [
-              "Bemiho"
-            ]
-          },
-          {
-            "Name": "Kanimura Hinano",
-            "Print": "Hinano",
-            "Aliases": [
-              "Hinano"
-            ]
-          },
-          {
-            "Name": "Takahashi Mikuni",
-            "Print": "Mikuni",
-            "Aliases": [
-              "Mikuni"
-            ]
-          },
-          {
-            "Name": "Morimoto Mari",
-            "Print": "Mari",
-            "Aliases": [
-              "Mari"
-            ]
-          },
-          {
-            "Name": "Yamaguchi Haruyo",
-            "Print": "Nanachan",
-            "Aliases": [
-              "Nanachan"
-            ]
-          }
+            {
+                "Name": "Saito Asuka",
+                "Print": "Ashurin",
+                "Aliases": [
+                    "Ashurin"
+                ],
+                "Reactions": []
+            },
+            {
+                "Name": "Tsutsui Ayame",
+                "Print": "Ayamen",
+                "Aliases": [
+                    "Ayamen"
+                ],
+                "Reactions": []
+            },
+            {
+                "Name": "Suzuki Ayane",
+                "Print": "Aachan",
+                "Aliases": [
+                    "Aachan"
+                ],
+                "Reactions": []
+            },
+            {
+                "Name": "Yoshida Ayano Christie",
+                "Print": "Ayatii",
+                "Aliases": [
+                    "Ayatii"
+                ],
+                "Reactions": []
+            },
+            {
+                "Name": "Ikuta Erika",
+                "Print": "Ikuchan",
+                "Aliases": [
+                    "Ikuchan"
+                ],
+                "Reactions": []
+            },
+            {
+                "Name": "Kaki Haruka",
+                "Print": "Kakki",
+                "Aliases": [
+                    "Kakki"
+                ],
+                "Reactions": []
+            },
+            {
+                "Name": "Kuromi Haruka",
+                "Print": "Kuromin",
+                "Aliases": [
+                    "Kuromichan",
+                    "Kuromin"
+                ],
+                "Reactions": []
+            },
+            {
+                "Name": "Mukai Hazuki",
+                "Print": "Mukai",
+                "Aliases": [
+                    "Mukai"
+                ],
+                "Reactions": []
+            },
+            {
+                "Name": "Higuchi Hina",
+                "Print": "Hinachima",
+                "Aliases": [
+                    "Hinachima"
+                ],
+                "Reactions": []
+            },
+            {
+                "Name": "Kitano Hinako",
+                "Print": "Kiichan",
+                "Aliases": [
+                    "Kiichan"
+                ],
+                "Reactions": []
+            },
+            {
+                "Name": "Ito Junna",
+                "Print": "Junna",
+                "Aliases": [
+                    "Junna"
+                ],
+                "Reactions": []
+            },
+            {
+                "Name": "Sato Kaede",
+                "Print": "Denchan",
+                "Aliases": [
+                    "Denchan"
+                ],
+                "Reactions": []
+            },
+            {
+                "Name": "Nakada Kana",
+                "Print": "Kanarin",
+                "Aliases": [
+                    "Kanarin"
+                ],
+                "Reactions": []
+            },
+            {
+                "Name": "Takayama Kazumi",
+                "Print": "Kazumin",
+                "Aliases": [
+                    "Kazumin"
+                ],
+                "Reactions": []
+            },
+            {
+                "Name": "Wada Maaya",
+                "Print": "Maaya",
+                "Aliases": [
+                    "Maaya"
+                ],
+                "Reactions": []
+            },
+            {
+                "Name": "Shinuchi Mai",
+                "Print": "Maichun",
+                "Aliases": [
+                    "Maichun"
+                ],
+                "Reactions": []
+            },
+            {
+                "Name": "Shiraishi Mai",
+                "Print": "Maiyan",
+                "Aliases": [
+                    "Maiyan"
+                ],
+                "Reactions": []
+            },
+            {
+                "Name": "Akimoto Manatsu",
+                "Print": "Manatsu",
+                "Aliases": [
+                    "Manatsu"
+                ],
+                "Reactions": []
+            },
+            {
+                "Name": "Tamura Mayu",
+                "Print": "Mayutan",
+                "Aliases": [
+                    "Mayutan"
+                ],
+                "Reactions": []
+            },
+            {
+                "Name": "Hoshino Minami",
+                "Print": "Hoshimina",
+                "Aliases": [
+                    "Hoshimina"
+                ],
+                "Reactions": []
+            },
+            {
+                "Name": "Umezawa Minami",
+                "Print": "Minamin",
+                "Aliases": [
+                    "Minamin"
+                ],
+                "Reactions": []
+            },
+            {
+                "Name": "Yakubo Mio",
+                "Print": "Yakubo",
+                "Aliases": [
+                    "Yakubo"
+                ],
+                "Reactions": []
+            },
+            {
+                "Name": "Hori Miona",
+                "Print": "Miona",
+                "Aliases": [
+                    "Miona"
+                ],
+                "Reactions": []
+            },
+            {
+                "Name": "Watanabe Miria",
+                "Print": "Miririn",
+                "Aliases": [
+                    "Miririn"
+                ],
+                "Reactions": []
+            },
+            {
+                "Name": "Matsuo Miyu",
+                "Print": "Miyuchan",
+                "Aliases": [
+                    "Miyuchan"
+                ],
+                "Reactions": []
+            },
+            {
+                "Name": "Yamashita Mizuki",
+                "Print": "Zukkii",
+                "Aliases": [
+                    "Zukkii"
+                ],
+                "Reactions": []
+            },
+            {
+                "Name": "Ozono Momoko",
+                "Print": "Momoko",
+                "Aliases": [
+                    "Momoko"
+                ],
+                "Reactions": []
+            },
+            {
+                "Name": "Yumiki Nao",
+                "Print": "Naochan",
+                "Aliases": [
+                    "Naochan"
+                ],
+                "Reactions": []
+            },
+            {
+                "Name": "Terada Ranze",
+                "Print": "Ranran",
+                "Aliases": [
+                    "Ranran"
+                ],
+                "Reactions": []
+            },
+            {
+                "Name": "Seimiya Rei",
+                "Print": "Reichan",
+                "Aliases": [
+                    "Reichan"
+                ],
+                "Reactions": []
+            },
+            {
+                "Name": "Yamazaki Rena",
+                "Print": "Renachi",
+                "Aliases": [
+                    "Renachi"
+                ],
+                "Reactions": []
+            },
+            {
+                "Name": "Iwamoto Renka",
+                "Print": "Rentan",
+                "Aliases": [
+                    "Rentan"
+                ],
+                "Reactions": []
+            },
+            {
+                "Name": "Nakamura Reno",
+                "Print": "Reno",
+                "Aliases": [
+                    "Reno"
+                ],
+                "Reactions": []
+            },
+            {
+                "Name": "Sato Rika",
+                "Print": "Rikachan",
+                "Aliases": [
+                    "Rikachan"
+                ],
+                "Reactions": []
+            },
+            {
+                "Name": "Ito Riria",
+                "Print": "Ririan",
+                "Aliases": [
+                    "Ririan"
+                ],
+                "Reactions": []
+            },
+            {
+                "Name": "Hayashi Runa",
+                "Print": "Runachan",
+                "Aliases": [
+                    "Runachan"
+                ],
+                "Reactions": []
+            },
+            {
+                "Name": "Endo Sakura",
+                "Print": "Sakura",
+                "Aliases": [
+                    "Sakura"
+                ],
+                "Reactions": []
+            },
+            {
+                "Name": "Kanagawa Saya",
+                "Print": "Yanchan",
+                "Aliases": [
+                    "Yanchan"
+                ],
+                "Reactions": []
+            },
+            {
+                "Name": "Kakehashi Sayaka",
+                "Print": "Saachan",
+                "Aliases": [
+                    "Saachan"
+                ],
+                "Reactions": []
+            },
+            {
+                "Name": "Matsumura Sayuri",
+                "Print": "Sayurin",
+                "Aliases": [
+                    "Sayurin"
+                ],
+                "Reactions": []
+            },
+            {
+                "Name": "Hayakawa Seira",
+                "Print": "Seira",
+                "Aliases": [
+                    "Seira"
+                ],
+                "Reactions": []
+            },
+            {
+                "Name": "Kubo Shiori",
+                "Print": "Kubochan",
+                "Aliases": [
+                    "Kubochan"
+                ],
+                "Reactions": []
+            },
+            {
+                "Name": "Sakaguchi Tamami",
+                "Print": "Tamami",
+                "Aliases": [
+                    "Tamami"
+                ],
+                "Reactions": []
+            },
+            {
+                "Name": "Yoda Yuki",
+                "Print": "Yodachan",
+                "Aliases": [
+                    "Yodachan"
+                ],
+                "Reactions": []
+            },
+            {
+                "Name": "Shibata Yuna",
+                "Print": "Yunachan",
+                "Aliases": [
+                    "Yunachan"
+                ],
+                "Reactions": []
+            },
+            {
+                "Name": "Kitagawa Yuri",
+                "Print": "Yuri",
+                "Aliases": [
+                    "Yuri"
+                ],
+                "Reactions": []
+            }
         ]
     },
     {
-        "Label": "__**Other Groups 他のグループ**__",
+        "Label": "\n__Keyakizaka46__",
+        "Message": "",
+        "Pool": "oshi-roles",
+        "Hidden": false,
+        "Limit": -1,
+        "Roles": [
+            {
+                "Name": "Ishimori Nijika",
+                "Print": "Nijipon",
+                "Aliases": [
+                    "Nijipon"
+                ],
+                "Reactions": []
+            },
+            {
+                "Name": "Uemura Rina",
+                "Print": "Uemuu",
+                "Aliases": [
+                    "Uemuu"
+                ],
+                "Reactions": []
+            },
+            {
+                "Name": "Ozeki Rika",
+                "Print": "Riichan",
+                "Aliases": [
+                    "Riichan"
+                ],
+                "Reactions": []
+            },
+            {
+                "Name": "Koike Minami",
+                "Print": "Miichan",
+                "Aliases": [
+                    "Miichan"
+                ],
+                "Reactions": []
+            },
+            {
+                "Name": "Kobayashi Yui",
+                "Print": "Yuipon",
+                "Aliases": [
+                    "Yuipon"
+                ],
+                "Reactions": []
+            },
+            {
+                "Name": "Saito Fuyuka",
+                "Print": "Fuuchan",
+                "Aliases": [
+                    "Fuuchan"
+                ],
+                "Reactions": []
+            },
+            {
+                "Name": "Sato Shiori",
+                "Print": "Satoshi",
+                "Aliases": [
+                    "Satoshi"
+                ],
+                "Reactions": []
+            },
+            {
+                "Name": "Sugai Yuuka",
+                "Print": "Yukka",
+                "Aliases": [
+                    "Yukka"
+                ],
+                "Reactions": []
+            },
+            {
+                "Name": "Habu Mizuho",
+                "Print": "Mizuchan",
+                "Aliases": [
+                    "Mizuchan"
+                ],
+                "Reactions": []
+            },
+            {
+                "Name": "Harada Aoi",
+                "Print": "Aoi",
+                "Aliases": [
+                    "Aoi"
+                ],
+                "Reactions": []
+            },
+            {
+                "Name": "Moriya Akane",
+                "Print": "Akanen",
+                "Aliases": [
+                    "Akanen"
+                ],
+                "Reactions": []
+            },
+            {
+                "Name": "Watanabe Rika",
+                "Print": "Berika",
+                "Aliases": [
+                    "Berika"
+                ],
+                "Reactions": []
+            },
+            {
+                "Name": "Watanabe Risa",
+                "Print": "Berisa",
+                "Aliases": [
+                    "Berisa"
+                ],
+                "Reactions": []
+            },
+            {
+                "Name": "Inoue Rina",
+                "Print": "Inoue",
+                "Aliases": [
+                    "Inoue"
+                ],
+                "Reactions": []
+            },
+            {
+                "Name": "Seki Yumiko",
+                "Print": "Seki",
+                "Aliases": [
+                    "Seki"
+                ],
+                "Reactions": []
+            },
+            {
+                "Name": "Takemoto Yui",
+                "Print": "Takemoto",
+                "Aliases": [
+                    "Takemoto"
+                ],
+                "Reactions": []
+            },
+            {
+                "Name": "Tamura Hono",
+                "Print": "Tamura",
+                "Aliases": [
+                    "Tamura"
+                ],
+                "Reactions": []
+            },
+            {
+                "Name": "Fujiyoshi Karin",
+                "Print": "Fujiyoshi",
+                "Aliases": [
+                    "Fujiyoshi"
+                ],
+                "Reactions": []
+            },
+            {
+                "Name": "Matsuda Rina",
+                "Print": "Matsuda",
+                "Aliases": [
+                    "Matsuda"
+                ],
+                "Reactions": []
+            },
+            {
+                "Name": "Matsudaira Riko",
+                "Print": "Matsudaira",
+                "Aliases": [
+                    "Matsudaira"
+                ],
+                "Reactions": []
+            },
+            {
+                "Name": "Morita Hikaru",
+                "Print": "Morita",
+                "Aliases": [
+                    "Morita"
+                ],
+                "Reactions": []
+            },
+            {
+                "Name": "Yamasaki Ten",
+                "Print": "Yamasaki",
+                "Aliases": [
+                    "Yamasaki"
+                ],
+                "Reactions": []
+            },
+            {
+                "Name": "Endo Hikari",
+                "Print": "Endo",
+                "Aliases": [
+                    "Endo"
+                ],
+                "Reactions": []
+            },
+            {
+                "Name": "Ozono Rei",
+                "Print": "Ozono",
+                "Aliases": [
+                    "Ozono"
+                ],
+                "Reactions": []
+            },
+            {
+                "Name": "Onuma Akiho",
+                "Print": "Onuma",
+                "Aliases": [
+                    "Onuma"
+                ],
+                "Reactions": []
+            },
+            {
+                "Name": "Kosaka Marino",
+                "Print": "Kosaka",
+                "Aliases": [
+                    "Kosaka"
+                ],
+                "Reactions": []
+            },
+            {
+                "Name": "Matsumoto Kira",
+                "Print": "Matsumoto",
+                "Aliases": [
+                    "Matsumoto"
+                ],
+                "Reactions": []
+            },
+            {
+                "Name": "Moriya Rena",
+                "Print": "Moriya",
+                "Aliases": [
+                    "Moriya"
+                ],
+                "Reactions": []
+            }
+        ]
+    },
+    {
+        "Label": "\n__Hinatazaka46__",
+        "Message": "",
+        "Pool": "oshi-roles",
+        "Hidden": false,
+        "Limit": -1,
+        "Roles": [
+            {
+                "Name": "Ushio Sarina",
+                "Print": "Sarina",
+                "Aliases": [
+                    "Sarina"
+                ],
+                "Reactions": []
+            },
+            {
+                "Name": "Kageyama Yuuka",
+                "Print": "Kagechan",
+                "Aliases": [
+                    "Kagechan"
+                ],
+                "Reactions": []
+            },
+            {
+                "Name": "Kato Shiho",
+                "Print": "Katoshi",
+                "Aliases": [
+                    "Katoshi"
+                ],
+                "Reactions": []
+            },
+            {
+                "Name": "Saito Kyoko",
+                "Print": "Kyonko",
+                "Aliases": [
+                    "Kyonko"
+                ],
+                "Reactions": []
+            },
+            {
+                "Name": "Sasaki Kumi",
+                "Print": "Kumi",
+                "Aliases": [
+                    "Kumi"
+                ],
+                "Reactions": []
+            },
+            {
+                "Name": "Sasaki Mirei",
+                "Print": "Miipan",
+                "Aliases": [
+                    "Miipan"
+                ],
+                "Reactions": []
+            },
+            {
+                "Name": "Takase Mana",
+                "Print": "Manafi",
+                "Aliases": [
+                    "Manafi"
+                ],
+                "Reactions": []
+            },
+            {
+                "Name": "Takamoto Ayaka",
+                "Print": "Ponchan",
+                "Aliases": [
+                    "Ponchan"
+                ],
+                "Reactions": []
+            },
+            {
+                "Name": "Higashimura Mei",
+                "Print": "MeiMei",
+                "Aliases": [
+                    "MeiMei"
+                ],
+                "Reactions": []
+            },
+            {
+                "Name": "Kanemura Miku",
+                "Print": "Osushi",
+                "Aliases": [
+                    "Osushi"
+                ],
+                "Reactions": []
+            },
+            {
+                "Name": "Kawata Hina",
+                "Print": "Kawata",
+                "Aliases": [
+                    "Kawata"
+                ],
+                "Reactions": []
+            },
+            {
+                "Name": "Kosaka Nao",
+                "Print": "Nao",
+                "Aliases": [
+                    "Nao"
+                ],
+                "Reactions": []
+            },
+            {
+                "Name": "Tomita Suzuka",
+                "Print": "Tomita",
+                "Aliases": [
+                    "Tomita"
+                ],
+                "Reactions": []
+            },
+            {
+                "Name": "Nibu Akari",
+                "Print": "Nibu",
+                "Aliases": [
+                    "Nibu"
+                ],
+                "Reactions": []
+            },
+            {
+                "Name": "Hamagishi Hiyori",
+                "Print": "Hiyotan",
+                "Aliases": [
+                    "Hiyotan"
+                ],
+                "Reactions": []
+            },
+            {
+                "Name": "Matsuda Konoka",
+                "Print": "Konoka",
+                "Aliases": [
+                    "Konoka"
+                ],
+                "Reactions": []
+            },
+            {
+                "Name": "Miyata Manamo",
+                "Print": "Manamo",
+                "Aliases": [
+                    "Manamo"
+                ],
+                "Reactions": []
+            },
+            {
+                "Name": "Watanabe Miho",
+                "Print": "Bemiho",
+                "Aliases": [
+                    "Bemiho"
+                ],
+                "Reactions": []
+            },
+            {
+                "Name": "Kanimura Hinano",
+                "Print": "Hinano",
+                "Aliases": [
+                    "Hinano"
+                ],
+                "Reactions": []
+            },
+            {
+                "Name": "Takahashi Mikuni",
+                "Print": "Mikuni",
+                "Aliases": [
+                    "Mikuni"
+                ],
+                "Reactions": []
+            },
+            {
+                "Name": "Morimoto Mari",
+                "Print": "Mari",
+                "Aliases": [
+                    "Mari"
+                ],
+                "Reactions": []
+            },
+            {
+                "Name": "Yamaguchi Haruyo",
+                "Print": "Nanachan",
+                "Aliases": [
+                    "Nanachan"
+                ],
+                "Reactions": []
+            }
+        ]
+    },
+    {
+        "Label": "__roles__",
+        "Message": "\n:white_flower:__**Other Groups 他のグループ**__\nIf you were a fan of other AkiP idol group, go choose this one as well. (Female group only listed).",
         "Pool": "48-family-roles",
         "Hidden": false,
         "Limit": -1,
-        "Message": ":white_flower: If you were a fan of other 48/46 related family group, go choose this one as well :) (Female group only listed).",
         "Roles": [
-        {
-            "Name": "Nogizaka46",
-            "Print": "Nogizaka46",
-            "Aliases": [
-              "Nogizaka46",
-              "乃木坂46"
-            ]
-        },
-         {
-            "Name": "Keyakizaka46",
-            "Print": "Keyakizaka46",
-            "Aliases": [
-              "Keyakizaka46",
-              "欅坂46"
-            ]
-        },
-        {
-            "Name": "Hinatazaka46",
-            "Print": "Hinatazaka46",
-            "Aliases": [
-              "Hinatazaka46",
-              "日向坂46"
-            ]
-        },
-        {
-            "Name": "Yoshimotozaka46",
-            "Print": "Yoshimotozaka46",
-            "Aliases": [
-              "Yoshimotozaka46",
-              "吉本坂46"
-            ]
-        },
-        {
-          "Name": "AKB48",
-          "Print": "AKB48",
-          "Aliases": [
-            "AKB48",
-            "AKB",
-            "Akihabara"
-          ]
-        },
-        {
-          "Name": "SKE48",
-          "Print": "SKE48",
-          "Aliases": [
-            "SKE48",
-            "Sakae",
-            "SKE"
-          ]
-        },
-        {
-          "Name": "SDN48",
-          "Print": "SDN48",
-          "Aliases": [
-            "SDN48",
-            "SDN"
-          ]
-        },
-        {
-          "Name": "NMB48",
-          "Print": "NMB48",
-          "Aliases": [
-            "NMB48",
-            "Namba",
-            "NMB"
-          ]
-        },
-        {
-          "Name": "HKT48",
-          "Print": "HKT48",
-          "Aliases": [
-            "HKT48",
-            "Hakata",
-            "HKT"
-          ]
-        },
-        {
-          "Name": "NGT48",
-          "Print": "NGT48",
-          "Aliases": [
-            "NGT48",
-            "NGT",
-            "Nigata",
-            "Niigata"
-          ]
-        },
-        {
-          "Name": "STU48",
-          "Print": "STU48",
-          "Aliases": [
-            "STU48",
-            "STU",
-            "Setouchi"
-          ]
-        },
-        {
-          "Name": "JKT48",
-          "Print": "JKT48",
-          "Aliases": [
-            "JKT48",
-            "JKT",
-            "Jakarta"
-          ]
-        },
-        {
-          "Name": "BNK48",
-          "Print": "BNK48",
-          "Aliases": [
-            "BNK48",
-            "BNK",
-            "Bangkok"
-          ]
-        },
-        {
-          "Name": "MNL48",
-          "Print": "MNL48",
-          "Aliases": [
-            "MNL48",
-            "MNL",
-            "Manila"
-          ]
-        },
-        {
-          "Name": "AKB48 Team SH",
-          "Print": "AKB48 Team SH",
-          "Aliases": [
-            "AKB48 Team SH",
-            "Shanghai"
-          ]
-        },
-        {
-          "Name": "AKB48 Team TP",
-          "Print": "AKB48 Team TP",
-          "Aliases": [
-            "AKB48 Team TP",
-            "Taipei"
-          ]
-        },
-        {
-          "Name": "SGO48",
-          "Print": "SGO48",
-          "Aliases": [
-            "SGO48",
-            "SGO",
-            "Saigon",
-            "Ho Chi Minh City"
-          ]
-        },
-        {
-          "Name": "CGM48",
-          "Print": "CGM48",
-          "Aliases": [
-            "CGM48",
-            "CGM",
-            "Chiang Mai"
-          ]
-        },
-        {
-          "Name": "DEL48",
-          "Print": "DEL48",
-          "Aliases": [
-            "DEL48",
-            "DEL",
-            "New Delhi",
-            "Delhi"
-          ]
-        },
-        {
-          "Name": "MUB48",
-          "Print": "MUB48",
-          "Aliases": [
-            "MUB48",
-            "MUB",
-            "Mumbai"
-          ]
-        },
-        {
-          "Name": "22/7",
-          "Print": "22/7",
-          "Aliases": [
-            "22/7",
-            "227",
-            "ナナブンノニジュウニ",
-            "Nanabunnonijyuuni",
-            "nana bun no ni juu ni"
-          ]
-        },
-        {
-          "Name": "Onyanko Club",
-          "Print": "Onyanko Club",
-          "Aliases": [
-            "Onyanko Club",
-            "おニャン子クラブ",
-            "Kitty Club"
-          ]
-        }
-      ]
+            {
+                "Name": "Nogizaka46",
+                "Print": "Nogizaka46",
+                "Aliases": [
+                    "Nogizaka46",
+                    "乃木坂46"
+                ],
+                "Reactions": []
+            },
+            {
+                "Name": "Keyakizaka46",
+                "Print": "Keyakizaka46",
+                "Aliases": [
+                    "Keyakizaka46",
+                    "欅坂46"
+                ],
+                "Reactions": []
+            },
+            {
+                "Name": "Hinatazaka46",
+                "Print": "Hinatazaka46",
+                "Aliases": [
+                    "Hinatazaka46",
+                    "日向坂46"
+                ],
+                "Reactions": []
+            },
+            {
+                "Name": "Yoshimotozaka46",
+                "Print": "Yoshimotozaka46",
+                "Aliases": [
+                    "Yoshimotozaka46",
+                    "吉本坂46"
+                ],
+                "Reactions": []
+            },
+            {
+                "Name": "AKB48",
+                "Print": "AKB48",
+                "Aliases": [
+                    "AKB48",
+                    "AKB",
+                    "Akihabara"
+                ],
+                "Reactions": []
+            },
+            {
+                "Name": "SKE48",
+                "Print": "SKE48",
+                "Aliases": [
+                    "SKE48",
+                    "Sakae",
+                    "SKE"
+                ],
+                "Reactions": []
+            },
+            {
+                "Name": "SDN48",
+                "Print": "SDN48",
+                "Aliases": [
+                    "SDN48",
+                    "SDN"
+                ],
+                "Reactions": []
+            },
+            {
+                "Name": "NMB48",
+                "Print": "NMB48",
+                "Aliases": [
+                    "NMB48",
+                    "Namba",
+                    "NMB"
+                ],
+                "Reactions": []
+            },
+            {
+                "Name": "HKT48",
+                "Print": "HKT48",
+                "Aliases": [
+                    "HKT48",
+                    "Hakata",
+                    "HKT"
+                ],
+                "Reactions": []
+            },
+            {
+                "Name": "NGT48",
+                "Print": "NGT48",
+                "Aliases": [
+                    "NGT48",
+                    "NGT",
+                    "Nigata",
+                    "Niigata"
+                ],
+                "Reactions": []
+            },
+            {
+                "Name": "STU48",
+                "Print": "STU48",
+                "Aliases": [
+                    "STU48",
+                    "STU",
+                    "Setouchi"
+                ],
+                "Reactions": []
+            },
+            {
+                "Name": "JKT48",
+                "Print": "JKT48",
+                "Aliases": [
+                    "JKT48",
+                    "JKT",
+                    "Jakarta"
+                ],
+                "Reactions": []
+            },
+            {
+                "Name": "BNK48",
+                "Print": "BNK48",
+                "Aliases": [
+                    "BNK48",
+                    "BNK",
+                    "Bangkok"
+                ],
+                "Reactions": []
+            },
+            {
+                "Name": "MNL48",
+                "Print": "MNL48",
+                "Aliases": [
+                    "MNL48",
+                    "MNL",
+                    "Manila"
+                ],
+                "Reactions": []
+            },
+            {
+                "Name": "AKB48 Team SH",
+                "Print": "AKB48 Team SH",
+                "Aliases": [
+                    "AKB48 Team SH",
+                    "Shanghai"
+                ],
+                "Reactions": []
+            },
+            {
+                "Name": "AKB48 Team TP",
+                "Print": "AKB48 Team TP",
+                "Aliases": [
+                    "AKB48 Team TP",
+                    "Taipei"
+                ],
+                "Reactions": []
+            },
+            {
+                "Name": "SGO48",
+                "Print": "SGO48",
+                "Aliases": [
+                    "SGO48",
+                    "SGO",
+                    "Saigon",
+                    "Ho Chi Minh City"
+                ],
+                "Reactions": []
+            },
+            {
+                "Name": "CGM48",
+                "Print": "CGM48",
+                "Aliases": [
+                    "CGM48",
+                    "CGM",
+                    "Chiang Mai"
+                ],
+                "Reactions": []
+            },
+            {
+                "Name": "DEL48",
+                "Print": "DEL48",
+                "Aliases": [
+                    "DEL48",
+                    "DEL",
+                    "New Delhi",
+                    "Delhi"
+                ],
+                "Reactions": []
+            },
+            {
+                "Name": "MUB48",
+                "Print": "MUB48",
+                "Aliases": [
+                    "MUB48",
+                    "MUB",
+                    "Mumbai"
+                ],
+                "Reactions": []
+            },
+            {
+                "Name": "22/7",
+                "Print": "22/7",
+                "Aliases": [
+                    "22/7",
+                    "227",
+                    "ナナブンノニジュウニ",
+                    "Nanabunnonijyuuni",
+                    "nana bun no ni juu ni"
+                ],
+                "Reactions": []
+            },
+            {
+                "Name": "Onyanko Club",
+                "Print": "Onyanko Club",
+                "Aliases": [
+                    "Onyanko Club",
+                    "おニャン子クラブ",
+                    "Kitty Club"
+                ],
+                "Reactions": []
+            }
+        ]
     }
-  ]
+]
