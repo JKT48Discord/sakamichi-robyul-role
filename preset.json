@@ -298,6 +298,14 @@
                     "Hoshino Minami"
                 ],
                 "Reactions": []
+            },
+            {
+                "Name": "Shinuchi Mai",
+                "Print": "Shinuchi Mai",
+                "Aliases": [
+                    "Shinuchi Mai"
+                ],
+                "Reactions": []
             }
         ]
     },
@@ -716,6 +724,14 @@
                 "Print": "Wakasama Gundan",
                 "Aliases": [
                     "Wakasama Gundan"
+                ],
+                "Reactions": []
+            },
+            {
+                "Name": "Manatsu Respect Gundan",
+                "Print": "Manatsu Respect Gundan",
+                "Aliases": [
+                    "Manatsu Respect Gundan"
                 ],
                 "Reactions": []
             },
