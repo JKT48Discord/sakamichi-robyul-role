@@ -682,7 +682,7 @@
     },
     {
         "Label": "__roles__",
-        "Message": "\n:white_flower:__**Unit ユニット**__\nIf you were a *unit* fan of sakamichi group, go choose this one as well. (Not all unit listed).",
+        "Message": "\n:white_flower:__**Other Roles**__\nThere's some **sakamichi group related** roles, go choose this one as well. (Not all unit listed).",
         "Pool": "unit-roles",
         "Hidden": false,
         "Limit": -1,
@@ -765,6 +765,14 @@
                 "Aliases": [
                     "Backs Members",
                     "BACKS Members"
+                ],
+                "Reactions": []
+            },
+            {
+                "Name": "Bananaman",
+                "Print": "Bananaman",
+                "Aliases": [
+                    "Bananaman"
                 ],
                 "Reactions": []
             }
