@@ -1,7 +1,7 @@
 [
     {
-        "Label": "\n__Nogizaka46__ :nogizaka46:",
-        "Message": ":warning:Bot tidak memberi role? Mau role eks-member? ping mod di #💭・saran\n\n:warning: The bot doesn't give you any role? Want an ex-member role? Ping mod in #suggestions\n\n:white_flower:__**押し Oshi**__\n:flag_gb: Type `+member name` to add **your oshimen**.\n:flag_id: Tulis `+nama member` untuk menambahkan roles **oshimenmu**",
+        "Label": "\n__Nogizaka46__",
+        "Message": ":warning:Bot tidak memberi role? Mau role eks-member? ping mod di #💭・saran\n\n:warning: The bot doesn't give you any role? Want an ex-member role? Ping mod in #suggestions\n\n:white_flower:__**押し Oshi**__\n:flag_gb: Type `+member name` to add **your oshimen** roles.\n:flag_id: Tulis `+nama member` untuk menambahkan roles **oshimenmu**",
         "Pool": "oshi-roles",
         "Hidden": false,
         "Limit": -1,
@@ -310,7 +310,7 @@
         ]
     },
     {
-        "Label": "\n__Sakurazaka46__ :sakurazaka46:",
+        "Label": "\n__Sakurazaka46__",
         "Message": "",
         "Pool": "oshi-roles",
         "Hidden": false,
@@ -504,7 +504,7 @@
         ]
     },
     {
-        "Label": "\n__Hinatazaka46__ :hinatazaka46:",
+        "Label": "\n__Hinatazaka46__",
         "Message": "",
         "Pool": "oshi-roles",
         "Hidden": false,
@@ -658,7 +658,7 @@
                 "Name": "Kamimura Hinano",
                 "Print": "Kamimura Hinano",
                 "Aliases": [
-                    "Kanimura Hinano"
+                    "Kamimura Hinano"
                 ],
                 "Reactions": []
             },
@@ -744,6 +744,14 @@
                 "Reactions": []
             },
             {
+                "Name": "Yuichanzu",
+                "Print": "Yuichanzu",
+                "Aliases": [
+                    "Hanachanzu"
+                ],
+                "Reactions": []
+            },
+            {
                 "Name": "Hanachanzu",
                 "Print": "Hanachanzu",
                 "Aliases": [
@@ -815,6 +823,15 @@
                 "Print": "Keyakizaka46",
                 "Aliases": [
                     "Keyakizaka46",
+                    "欅坂46"
+                ],
+                "Reactions": []
+            },
+            {
+                "Name": "Sakurazaka46",
+                "Print": "Sakurazaka46",
+                "Aliases": [
+                    "Sakurazaka46",
                     "欅坂46"
                 ],
                 "Reactions": []
